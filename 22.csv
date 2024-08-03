@@ -1,0 +1,28 @@
+home_team,home_score,away_score,away_team,home_shots,away_shots,home_shots_on_target,away_shots_on_target,home_possession,away_possession,home_passes,away_passes,home_pass_success,away_pass_success,home_fouls,away_fouls,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards,home_offsides,away_offsides,home_corners,away_corners
+shandong,4,2,changchun,29,7,9,4,52,48,405,405,76,73,20,16,5,2,0,0,1,1,13,2
+qingdaoxha,1,1,henan,11,10,2,4,53,47,417,386,77,76,15,21,3,2,0,1,0,1,3,4
+shanghaisg,3,1,wuhan,22,10,8,5,68,32,619,304,84,68,11,15,1,1,0,0,1,3,9,2
+tianjin,1,1,nantong ,13,14,4,1,52,48,377,345,75,72,14,14,0,4,0,0,0,2,3,6
+cangzhou,0,2,beijing,13,13,3,4,27,73,254,738,66,86,12,11,2,0,0,0,1,1,5,3
+chengdu,2,0,qingdaohn,17,11,5,1,56,44,559,463,82,76,9,10,2,1,0,0,1,3,12,2
+zhejiang,1,0,shenzhen,5,25,2,6,42,58,332,440,74,83,15,14,4,1,1,0,1,4,3,8
+meizhou,0,2,shanghaish,4,22,2,8,36,64,282,485,64,81,8,13,1,2,0,0,1,2,3,15
+qingdaohn,0,1,changchun,16,5,5,1,46,54,441,525,73,77,19,9,3,1,0,0,1,3,3,1
+shanghaish,2,0,qingdaoxha,24,6,11,1,66,34,680,350,86,73,18,13,1,2,0,0,1,1,4,3
+henan,2,2,meizhou,24,6,8,4,65,35,440,245,78,62,15,16,1,1,0,0,2,1,10,3
+shandong,0,0,beijing,17,12,2,4,44,56,310,401,62,74,20,19,3,1,0,0,1,1,5,3
+zhejiang,0,0,shanghaisg,9,15,1,6,46,54,383,429,70,77,12,18,3,2,1,0,0,3,2,3
+nantong,1,3,wuhan,8,12,4,6,43,57,377,497,70,82,18,16,4,0,0,0,3,2,3,3
+cangzhou,1,0,chengdu,11,11,4,1,28,72,225,553,65,83,11,12,2,1,0,0,4,2,6,8
+shenzhen,0,4,tianjin,15,12,6,6,62,38,504,305,84,75,8,14,1,2,0,0,1,0,6,2
+shenzhen,2,2,cangzhou,13,14,3,6,61,39,541,334,89,76,21,11,5,3,0,1,0,2,6,9
+wuhan,0,1,beijing,7,15,1,3,56,44,489,398,87,84,8,11,1,3,0,0,3,0,3,6
+chengdu,1,0,nantong ,9,5,3,0,47,53,353,393,66,70,16,14,3,1,0,0,2,2,4,3
+qingdaoxha,1,0,qingdaohn,11,17,4,3,45,55,335,385,70,74,21,17,3,2,0,0,2,2,1,4
+shanghaisg,3,1,henan,15,15,8,5,61,39,442,295,82,73,19,14,2,1,0,0,4,4,7,5
+changchun,0,1,tianjin,11,13,3,7,54,46,411,358,77,79,17,23,1,1,0,0,4,1,4,4
+shandong,0,3,shanghaish,21,10,4,5,60,40,459,325,78,65,10,20,1,4,0,0,2,2,7,2
+meizhou,1,2,zhejiang,10,22,3,8,38,62,303,485,70,84,15,11,0,2,0,0,5,1,1,9
+wuhan,2,3,cangzhou,23,10,10,3,72,28,631,257,87,66,10,9,0,1,1,0,0,1,8,2
+changchun,1,2,shanghaish,6,22,2,7,45,55,372,431,72,78,10,21,2,1,0,0,3,2,3,10
+henan,0,2,shenzhen,14,14,1,7,54,46,410,378,75,79,18,10,0,2,1,0,1,1,6,2
